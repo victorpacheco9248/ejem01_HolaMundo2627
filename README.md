@@ -22,3 +22,6 @@ Hemos realizado el proyecto:
   | Versión | Modificación | Propietario de la modificación |
   | ---- | ---- | ---- |
   |1.0| Creación del ReadMe| Víctor Pacheco|
+
+
+  [^1]: [Fuente](https://www.markdownguide.org/cheat-sheet/)
