@@ -13,7 +13,7 @@ Hemos realizado el proyecto:
 - Lucas
 - Ana
 
-Ésta modificacion nos sirve para aprender markdown que por ejemplo los titulos `<H1> </H1>` los coloca como una almohadilla.
+Esta modificación nos sirve para aprender markdown que por ejemplo los titulos `<H1> </H1>` los coloca como una almohadilla.
  
   ---
 
