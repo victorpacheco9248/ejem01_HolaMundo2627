@@ -13,8 +13,12 @@ Hemos realizado el proyecto:
 - Lucas
 - Ana
 
-  1. Ésta modificacion nos sirve para aprender markdown que por ejemplo los titulos '<H1></H1>' los coloca como una almohadilla.
+  1. Ésta modificacion nos sirve para aprender markdown que por ejemplo los titulos <H1> </H1> los coloca como una almohadilla.
  
   ---
 
   [Gregorio Fernández](https://www.gregoriofer.com)
+
+  | Versión | Modificación | Propietario de la modificación |
+  | ---- | ---- | ---- |
+  |1.0| Creación del ReadMe| Víctor Pacheco|
